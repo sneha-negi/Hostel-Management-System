@@ -1,4 +1,4 @@
-# Hostel Management System for NSUT's 3 Girls' Hostels
+# Hostel Management System for NSUT Girls Hostel
 
 ## Project Overview
 This Hostel Management System has been specifically designed to manage and streamline operations for the three girls’ hostels at NSUT: **Alaknanda**, **Kaveri**, and **Saraswati**. It addresses the unique requirements of these hostels while utilizing advanced database management concepts to ensure efficient and secure data handling.
